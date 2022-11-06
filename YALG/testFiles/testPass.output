@@ -1,0 +1,43 @@
+Welcome to Scrabble!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+>
+Enter the file name from which you wish to load a game
+>Scrabble game successfully loaded
+
+TESTONE, it's your turn
+Score for TESTONE: 0
+Score for TESTTWO: 0
+    0   1   2   
+  -------------
+A |   |   |   |
+B |   |   |   |
+C |   |   |   |
+
+Your hand is
+A-1, O-1, L-1, T-1, R-1, P-3, E-1
+
+
+>
+TESTTWO, it's your turn
+Score for TESTONE: 0
+Score for TESTTWO: 0
+    0   1   2   
+  -------------
+A |   |   |   |
+B |   |   |   |
+C |   |   |   |
+
+Your hand is
+A-1, I-1, A-1, S-1, I-1, R-1, E-1
+
+
+>
+Goodbye

@@ -1,0 +1,37 @@
+Welcome to Scrabble!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+>
+Starting a New Game
+
+Enter a name for player 1 (uppercase characters only)
+>Invalid name. Try again.
+>Invalid name. Try again.
+>
+Enter a name for player 2 (uppercase characters only)
+>Invalid name. Try again.
+>
+Let's Play!
+
+JOHN, it's your turn
+Score for JOHN: 0
+Score for PETER: 0
+    0   1   2   
+  -------------
+A |   |   |   |
+B |   |   |   |
+C |   |   |   |
+
+Your hand is
+L-1, G-2, I-1, F-4, A-1, Z-10, B-3
+
+
+>
+Goodbye

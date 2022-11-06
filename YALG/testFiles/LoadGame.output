@@ -1,0 +1,41 @@
+Welcome to Scrabble!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+>
+Enter the file name from which you wish to load a game
+>Scrabble game successfully loaded
+
+JJ, it's your turn
+Score for JJ: 1
+Score for JD: 0
+    0   1   2   3   4   5   6   7   8   9   10  11  12  13  14  
+  -------------------------------------------------------------
+A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+G |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+H |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+I |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+J |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+K |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+O |   |   |   |   |   |   |   |   |   |   |   |   |   |   | E |
+
+Your hand is
+E-1, K-5, U-1, S-1, R-1, D-2, S-1
+
+
+>
+Goodbye

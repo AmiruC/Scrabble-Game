@@ -1,0 +1,71 @@
+Welcome to Scrabble!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+>
+Enter the file name from which you wish to load a game
+>Scrabble game successfully loaded
+
+BCD, it's your turn
+Score for ABC: 1
+Score for BCD: 0
+    0   1   2   3   4   5   6   7   8   9   10  11  12  13  14  
+  -------------------------------------------------------------
+A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+G |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+H |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+I |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+J |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+K |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+O |   |   |   |   |   |   |   |   |   |   |   |   |   |   | E |
+
+Your hand is
+N-1, L-1, R-1, I-1, R-1, W-4, K-5
+
+
+>Invalid replace. Try again.
+>Invalid replace. Try again.
+>Invalid replace. Try again.
+>Invalid replace. Try again.
+>
+ABC, it's your turn
+Score for ABC: 1
+Score for BCD: 0
+    0   1   2   3   4   5   6   7   8   9   10  11  12  13  14  
+  -------------------------------------------------------------
+A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+G |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+H |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+I |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+J |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+K |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+O |   |   |   |   |   |   |   |   |   |   |   |   |   |   | E |
+
+Your hand is
+L-1, Z-10, G-2, S-1, S-1, D-2, U-1
+
+
+>
+Goodbye

@@ -1,0 +1,35 @@
+Welcome to Scrabble!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+>
+Starting a New Game
+
+Enter a name for player 1 (uppercase characters only)
+>
+Enter a name for player 2 (uppercase characters only)
+>Invalid name. Try again.
+>
+Let's Play!
+
+TESTONE, it's your turn
+Score for TESTONE: 0
+Score for TESTTWO: 0
+    0   1   2   
+  -------------
+A |   |   |   |
+B |   |   |   |
+C |   |   |   |
+
+Your hand is
+I-1, E-1, E-1, U-1, A-1, D-2, N-1
+
+
+>
+Goodbye
